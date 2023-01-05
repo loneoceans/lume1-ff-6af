@@ -10,7 +10,7 @@ This driver is an update to the previous driver from early 2020 used in some Fir
 
 ## Firmware
 
-This repository provides the Anduril 2 firmware source for the Lume1-FF-6AF driver (2022). Compiled .hex binaries are available in the ‘bin’ subfolders for flashing and updates. I am aware of the current awkward repository management - there is ongoing work to merge this firmware branch with the main flashlight repository on Launchpad. Thank you for your patience.  
+This repository provides the Anduril 2 firmware source for the Lume1-FF-6AF driver (2022). Compiled .hex binaries are available in the ‘Debug’ subfolders for flashing and updates. I am aware of the current awkward repository management - there is ongoing work to merge this firmware branch with the main flashlight repository on Launchpad. Thank you for your patience.  
 
 - Driver name: Lume1-FF-6AF
 - HWID number: 0481
