@@ -65,7 +65,9 @@ Beacontower is a new blinky mode previously introduced in the original Lume1 dri
 
 ### Programming
 
-This driver offers a standard 3-pin UPDI pogo-pin interface (with 50-mil spacing) for reflashing the Attiny1616 with a custom firmware. Fuses can be left as factory-default. The fully-featured ATMEL ICE programmer can be used for memories-flashing and debug, with a 3-pin pogo-pin to interface with the pads. A variety of 3rd-party USB UPDI/Serial programmers are also becoming available. Note that VCC power must be supplied externally if using the ATMEL ICE. The firmware provided here is organized for Microchip Studio, for development on Windows. Microchip Studio is available here: https://www.microchip.com/en-us/tools-resources/develop/microchip-studio
+This driver offers a standard 3-pin UPDI pogo-pin interface (with 50-mil spacing) for reflashing the Attiny1616 with a custom firmware. Fuses can be left as factory-default. The fully-featured ATMEL ICE programmer can be used for memories-flashing and debug, with a 3-pin pogo-pin to interface with the pads. A variety of 3rd-party USB UPDI/Serial programmers are also becoming available. Note that VCC power must be supplied externally if using the ATMEL ICE. 
+
+Some configuration details are stored in EEPROM; please erase EEPROM before flashing a new firmware to ensure new settings take hold. The firmware provided here is organized for Microchip Studio, for development on Windows. Microchip Studio is available here: https://www.microchip.com/en-us/tools-resources/develop/microchip-studio
 
 ## Notes
 
