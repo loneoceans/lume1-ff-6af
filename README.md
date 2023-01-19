@@ -75,6 +75,6 @@ As far as I am aware, this driver is planned to be used in the 2022 versions of 
 
 Thanks goes out to ToyKeeper, gHart, and the flashlight community for their work on Anduril 2, and AVR 1-series support. I appreciate all the feedback, comments, and support from the BLF flashlight community and other forums. Finally, a shout-out to FireflyLite for picking up the Lume1 driver for some of their flashlights and making it available to the public to experience. I hope you will be able to enjoy using it as much as I did creating it. 
 
-For more information: www.loneceans.com/labs/ 
+For more information: www.loneoceans.com/labs/ 
 
 Anduril2 Manual by TK: http://toykeeper.net/torches/fsm/anduril2/anduril-manual.txt
