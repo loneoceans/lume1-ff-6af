@@ -1,5 +1,11 @@
 # lume1-ff-6af
 
+>> **Update Dec 2023**
+>>
+>> Lume1-6AF support has been added to the main Anduril repository which was recently migrated over to Github: https://github.com/ToyKeeper/anduril/.
+>>
+>> Firmware updates should be available in official builds shortly. This repo will be deprecated; please visit the link above for fresh builds of the newest version of Anduril for this driver, as well as other future Lume drivers. Appreciation goes to out ToyKeeper for the incredible work on FSM/Anduril, as well as the flashlight community for feedback and bug reports. More to come soon! 
+
 ## Overview
 
 The 2022 Lume1-FF-6AF is an advanced, electronic-switch, single cell, 6A fully regulated dual-phase synchronous buck LED flashlight driver with turbo FET capabilities and Ultra Dynamic Range (UDR). It also includes an intelligent 2A USB-C battery charger. 
